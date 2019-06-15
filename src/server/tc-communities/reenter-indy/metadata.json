@@ -1,0 +1,38 @@
+{
+    "authorizedGroupIds": ["12345"],
+    "challengeFilter": {
+      "groupIds": ["12345"]
+    },
+    "challengeListing": {},
+    "communityId": "reenter-indy",
+    "groupIds": ["12345"],
+    "leaderboardApiUrl": "https://api.topcoder.com/v4/looks/0/run/json/",
+    "logos": [
+      "/themes/demo-expert/logo_topcoder_with_name.svg"
+    ],
+    "additionalLogos": [
+      "/themes/demo-expert/logo_topcoder_with_name.svg"
+    ],
+    "hideSearch": true,
+    "chevronOverAvatar": true,
+    "menuItems": [
+      {
+        "title": "Home",
+        "url": "."
+      }, {
+        "title": "Learn",
+        "url": "learn"
+      }, {
+        "title": "Challenges",
+        "url": "challenges"
+      }, {
+        "title": "Leaderboard",
+        "url": "leaderboard"
+      }
+    ],
+    "newsFeed": "http://www.topcoder.com/feed",
+    "subdomains": ["demo"],
+    "description": "Inspiring learning to enable a seamless transition into the Indianapolis tech community.",
+    "image": "1.jpg",   
+    "terms": [21153]
+  }
